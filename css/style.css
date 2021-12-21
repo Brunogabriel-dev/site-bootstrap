@@ -557,6 +557,13 @@ padding: 1rem .8rem;
         margin: 0;
         width: 50%;
     }
+
+    /* contact */
+    .contact-box {
+        border: none;
+        margin-bottom: 0;
+    }
+
 }
 
 
